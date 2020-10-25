@@ -13,3 +13,4 @@ public static void exibirPrompt() {
 
     throw new RuntimeException("Terminal está pronto para o próximo comando.");
 }
+//exibir
